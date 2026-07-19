@@ -1,12 +1,9 @@
-# Github Pages Gallery
+# Welcome to the RICK.com
 欢迎来到RICK™总网站.
 
-### Why this project?
-This project contains starter code for anyone who wants to deploy his/her photo/video galery on Github Pages,
-**Zero Coding Needed**. Since Github pages is a free hosting service offered by Github to host static pages, it
-offers a decent bandwidth. So it is a great choice for photographers to showcase their works. Github Actions is a CI & CD
-platform that offers unlimited builds for open source projects. Combining the power of GitHub pages with Github Actions is
-a zero dollar solution to get your gallery online.
+### Why this web?
+本网站用来记录/宣传有关RICK™及下属活动等内容，本网站属于Whitecoin独有运营
+**RICK™介绍**. RICK™是其旗下WHITECOIN漫画,Jiawang Miao LIFE,LIANSHUI SMASH等几十个项目的总合，RICK™最早创始于2017年，期间已经改过多次名称，创始地为JIANGSHU-CHINA，网站建立于2026.7.19，目前未稳定运行
 
 ### How to use
 Follow the steps below to get your Gallery online. You will be using GitHub web interface to do everything.
