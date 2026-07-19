@@ -1,5 +1,5 @@
 # Github Pages Gallery
-Host your photo/video gallery in Github pages easily using Thumbsup & Github Actions for free.
+欢迎来到RICK™总网站.
 
 ### Why this project?
 This project contains starter code for anyone who wants to deploy his/her photo/video galery on Github Pages,
